@@ -3,3 +3,4 @@
 [437](https://leetcode.com/problems/path-sum-iii/description/)
 [236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 [739](https://leetcode.com/problems/daily-temperatures/)
+heapq.heappop pop the minimal value
