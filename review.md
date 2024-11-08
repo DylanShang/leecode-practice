@@ -10,3 +10,5 @@ heapq.heappop pop the minimal value
 76
 [207](https://leetcode.com/problems/course-schedule/)
 [735](https://leetcode.com/problems/asteroid-collision/description/)
+[279](https://leetcode.com/problems/perfect-squares/)
+[139](https://leetcode.com/problems/word-break/description/)
