@@ -13,3 +13,5 @@ heapq.heappop pop the minimal value
 [279](https://leetcode.com/problems/perfect-squares/)
 [139](https://leetcode.com/problems/word-break/description/)
 [416](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+[1143](https://leetcode.com/problems/longest-common-subsequence/)
+[72](https://leetcode.com/problems/edit-distance/)
